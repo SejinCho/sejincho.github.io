@@ -8,6 +8,7 @@
 
 ## 발표 동영상 <br>
 발표 동영상입니다. <br>
-[![유튜브왜안됨](https://user-images.githubusercontent.com/62641010/109755481-6da58700-7c29-11eb-9d1c-1209db5c95e0.png)](https://www.youtube.com/watch?v=MrIk6JNkHz4)
+[![유튜브 영상](https://user-images.githubusercontent.com/62641010/109755481-6da58700-7c29-11eb-9d1c-1209db5c95e0.png)](https://www.youtube.com/watch?v=MrIk6JNkHz4) <br><br>
 
-
+## Reference
+[검색엔진](https://naver.com)
