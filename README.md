@@ -8,7 +8,6 @@
 
 ## 발표 동영상 <br>
 발표 동영상입니다. <br>
-<iframe width="825" height="464" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+[![유튜브왜안됨](https://user-images.githubusercontent.com/62641010/109755481-6da58700-7c29-11eb-9d1c-1209db5c95e0.png)][https://www.youtube.com/watch?v=MrIk6JNkHz4]
 
-<iframe width="825" height="464" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
