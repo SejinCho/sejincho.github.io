@@ -8,4 +8,4 @@
 
 ## 발표 동영상 <br>
 발표 동영상입니다.
-[![예](https://www.youtube.com/watch?v=6MyHdz_MW3Y?t=0s)
+[![예]](https://www.youtube.com/watch?v=6MyHdz_MW3Y?t=0s)
