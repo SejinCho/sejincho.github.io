@@ -8,4 +8,4 @@
 
 ## 발표 동영상 <br>
 발표 동영상입니다. <br>
-<iframe width="825" height="464" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="6MyHdz_MW3Y" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0"></iframe>
