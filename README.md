@@ -7,5 +7,5 @@
 [발표자료]
 
 ## 발표 동영상 <br>
-발표 동영상입니다.
-[![예]](https://www.youtube.com/watch?v=6MyHdz_MW3Y?t=0s)
+발표 동영상입니다. <br>
+<iframe width="825" height="464" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
